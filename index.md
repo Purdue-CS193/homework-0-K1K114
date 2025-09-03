@@ -3,7 +3,7 @@
 - The TA's are very helpful
 - The Ed Discussion is amazing
 - The content that was taught was very useful
-- 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
